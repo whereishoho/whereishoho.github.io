@@ -4,6 +4,18 @@ You can use the [editor on GitHub](https://github.com/whereishoho/whereishoho.gi
 
 这里是hoho个人频道的整合地。b站上功能不太能满足我的整理欲望（？）所以在这里把自己的资源做一个整合。
 
+目前主要视频内容是：
+🕶原神相关
+韩网评论视频，前瞻直播韩语场翻译，韩配声优介绍视频，神韩配声优整活视频搬运翻译，韩配剧情实况视频等。
+🕶未定事件簿相关
+国际服韩配与部分日配剧情流程，国际服韩配相关情报和声优介绍。
+🕶其他
+动画电影韩语配音相关视频，也许不定期掉落一些其他领域的视频。
+
+为了大家方便索引，已经把投稿视频按照分类放入了收藏夹内，移动端可以点击我的收藏夹查看，也可以直接点击收藏。网页端可以直接查看我的频道。
+
+感谢大家的关注和支持～
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
