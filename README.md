@@ -1,6 +1,8 @@
 ## 欢迎来到hoho的主页
 
 
+![头图](https://i0.hdslb.com/bfs/album/783aaa287920d33bacbcdade0b8437d6571976d5.png@1036w.webp)
+
 
 这里是hoho个人频道的整合地。b站上功能不太能满足我的整理欲望（？）所以在这里把自己的资源做一个整合。
 
