@@ -26,7 +26,7 @@
 感谢大家的关注和支持～
 
 
-[神里绫华](>原神本地化观察日记>角色视频>神里绫华)
+[hoho在哪里的主页传送门](https://space.bilibili.com/14659237/dynamic)
 
 ### Markdown
 
