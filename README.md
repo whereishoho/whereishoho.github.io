@@ -23,6 +23,9 @@
 
 感谢大家的关注和支持～
 
+
+[神里绫华](>原神本地化观察日记>角色视频>神里绫华)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
