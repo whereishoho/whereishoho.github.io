@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 欢迎来到hoho的主页
 
 You can use the [editor on GitHub](https://github.com/whereishoho/whereishoho.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这里是hoho个人频道的整合地。b站上功能不太能满足我的整理欲望（？）所以在这里把自己的资源做一个整合。
 
 ### Markdown
 
